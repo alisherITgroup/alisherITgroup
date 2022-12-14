@@ -1,4 +1,5 @@
-```
+```py
+#usr/bin/python3
 class Ali:
   def __init__(self):
     self.name = "Ali"
